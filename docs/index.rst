@@ -48,7 +48,7 @@ Features
 
     * In **Object mode**, the add-on will analyze the entire mesh with modifiers included.
 
-* Refresh by clicking the *Analyze Mesh* button again in order to save on performance.
+* Refresh by clicking the *Re-Analyze Mesh* button again in order to save on performance.
 
 ---------------------------------
 Using

@@ -57,7 +57,7 @@ Select Elements
 Refreshing
 ============================
 
-To save on performance, the report is not automatically updated when you make changes to the mesh.  Click the *Analyze Mesh* button again to refresh the report.
+To save on performance, the report is not automatically updated when you make changes to the mesh.  Click the *Re-Analyze Mesh* button again to refresh the report.
 
     .. image:: _static/images/refresh_report.gif
        :alt: Analyze Mesh
