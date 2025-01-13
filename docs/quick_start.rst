@@ -54,6 +54,11 @@ Select Elements
     .. image:: _static/images/get_started_6.jpg
        :alt: Analyze Mesh
 
+#. Clicking the magnifying glass icon will also zoom in on the selected elements.
+
+    .. image:: _static/images/get_started_7.gif
+       :alt: Analyze Mesh
+
 Refreshing
 ============================
 
