@@ -14,9 +14,9 @@ Analyze Mesh
 What is Analyze Mesh?
 ---------------------------------
 
-`Analyze Mesh <https://blendermarket.com/products/analyse-mesh/>`_ is a free Blender Extension for 3D modelers who want to quickly check their mesh topology for `quads, tris, ngons <https://resources.turbosquid.com/training/modeling/tris-quads-n-gons/>`_ and edge `poles <https://resources.turbosquid.com/training/modeling/poles/>`_.
+`Analyze Mesh <https://blendermarket.com/products/analyse-mesh/>`_ is a Blender Extension for 3D modelers who want to quickly check their mesh topology for `quads, tris, ngons <https://resources.turbosquid.com/training/modeling/tris-quads-n-gons/>`_ and edge `poles <https://resources.turbosquid.com/training/modeling/poles/>`_.
 
-Originally part of `Quad Maker <https://blendermarket.com/products/quad-maker/>`_, Analyze Mesh is now available for free to provide a quick and easy way to check the topology of any mesh based object in Blender.
+Originally part of `Quad Maker <https://blendermarket.com/products/quad-maker/>`_, Analyze Mesh provides a quick and easy way to check the topology of any mesh based object in Blender.
 
 .. figure:: _static/images/analyze_mesh_eg.jpg
    :alt: Analyze Mesh Example
